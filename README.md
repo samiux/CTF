@@ -28,7 +28,7 @@ If you can solve the following challenges, please let me know (infosecninjas AT 
 - [Caprinux](https://caprinux.github.io/)  
 - [pwn.college](https://pwn.college/)  
 - [CTF pwn tips](https://github.com/Naetw/CTF-pwn-tips)  
-- [CTF Wiki](https://ctf-wiki.org/)  
+- [CTF Wiki](https://ctf-wiki.org/)  Chinese  
 
 ## Books
 
