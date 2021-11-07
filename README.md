@@ -20,7 +20,7 @@ If you can solve the following challenges, please let me know (infosecninjas AT 
 
 ### Linux Binary Exploitation - pwn
 
-- [BabyPwn](/pwn/babypwn/README.md)  
+- [BabyPwn](/pwn/babypwn/README.md)  - Point 150
 
 ## Tutorials & Writeups
 
