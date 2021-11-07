@@ -17,7 +17,7 @@
 
 ## Challenges
 
-If you can solve the following challenges, please let me know (```infosecninjas AT gmail DOT com```) and may be we can research together.  
+If you can solve the following challenges, please let me know (```infosecninjas AT gmail DOT com``` or at Discord @samiux) and may be we can research together.  
 
 ### Linux Binary Exploitation - pwn
 
