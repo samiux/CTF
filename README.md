@@ -13,6 +13,7 @@
 - C/C++ Language  
 - Python Language  
 - Exploit Development  
+- pwn tools (when necessary)  
 
 ## Challenges
 
