@@ -2,7 +2,7 @@
 
 Pwn me if you can!
 
-Attachments : [babypwn](https://github.com/samiux/CTF/blob/main/pwn/babypwn/babypwn)  
+Attachments : [babypwn](https://github.com/samiux/CTF/raw/main/pwn/babypwn/babypwn)  
 Category    : pwn  
 Author      : pwn.college (modified by Samiux)  
 Date        : Nov 07, 2021  
