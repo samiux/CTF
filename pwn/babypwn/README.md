@@ -1,6 +1,6 @@
 # babypwn
 
-You cannot pwn me anyway!
+Pwn me if you can!
 
 Attachments : babypwn  
 Category    : pwn  
