@@ -5,7 +5,7 @@
 
 ## Basic Knowledge Requirements
 
-- Linux  
+- Linux  (Ubuntu or Kali Linux is recommended)
 - Linux security features  
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
