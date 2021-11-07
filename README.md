@@ -1,8 +1,19 @@
 # Capture The Flag (CTF)
 
+## Basic Knonledge Requirements
+
+- Linux  
+- GUN Debugger (GDB)  
+- GDB Plugins  
+- Assemble Language  
+- C Language  
+- Python Language  
+
 ## Challenges
 
-### Binary Exploitation - pwn
+If you can solve the following challenges, please let me know (infosecninjas AT gmail DOT com).  
+
+### Linux Binary Exploitation - pwn
 
 - [BabyPwn](/pwn/babypwn/README.md)  
 
