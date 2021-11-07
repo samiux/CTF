@@ -7,7 +7,7 @@
 
 - Linux  
 - Linux security features  
-- GUN Debugger (GDB)  
+- GNU Debugger (GDB)  
 - GDB Plugins  
 - Assemble Language  
 - C Language  
