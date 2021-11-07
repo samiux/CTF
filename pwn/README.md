@@ -2,4 +2,4 @@
 
 ## Challenges
 
-- [babypwn](/pwn/babypwn/README.md)  
+- [babypwn](/pwn/babypwn/README.md)  - Point 150  
