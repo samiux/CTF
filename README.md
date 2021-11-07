@@ -1,5 +1,8 @@
 # Capture The Flag (CTF)
 
+- [Capture the flag - Wikipedia](https://en.wikipedia.org/wiki/Capture_the_flag)  
+- [Wargame - Wikipedia](https://en.wikipedia.org/wiki/Wargame_(hacking))  
+
 ## Basic Knowledge Requirements
 
 - Linux  
