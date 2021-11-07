@@ -4,7 +4,7 @@ Pwn me if you can!
 
 Attachments : [babypwn](https://github.com/samiux/CTF/blob/main/pwn/babypwn/babypwn)  
 Category    : pwn  
-Author      : pwn.college and modified by Samiux  
+Author      : pwn.college (modified by Samiux)  
 Date        : Nov 07, 2021  
 Point       : 150  
 
