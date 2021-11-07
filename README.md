@@ -10,7 +10,7 @@
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
 - Assemble Language  
-- C Language  
+- C/C++ Language  
 - Python Language  
 - Exploit Development  
 
