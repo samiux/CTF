@@ -8,7 +8,7 @@
 - Linux  
 - Linux security features  
 - GNU Debugger (GDB)  
-- GDB Plugins  
+- GDB Plugins (gef, pwndbg & etc)  
 - Assemble Language  
 - C Language  
 - Python Language  
