@@ -3,11 +3,13 @@
 ## Basic Knowledge Requirements
 
 - Linux  
+- Linux security features  
 - GUN Debugger (GDB)  
 - GDB Plugins  
 - Assemble Language  
 - C Language  
 - Python Language  
+- Exploit Development  
 
 ## Challenges
 
