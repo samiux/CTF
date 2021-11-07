@@ -1,6 +1,6 @@
 # Capture The Flag (CTF)
 
-## Basic Knonledge Requirements
+## Basic Knowledge Requirements
 
 - Linux  
 - GUN Debugger (GDB)  
