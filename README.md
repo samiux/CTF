@@ -10,6 +10,8 @@
 
 - [Nightmare](https://guyinatuxedo.github.io/)  
 - [Caprinux](https://caprinux.github.io/)  
+- [pwn.college](https://pwn.college/)  
+- [CTF pwn tips](https://github.com/Naetw/CTF-pwn-tips)  
 
 ## Books
 
