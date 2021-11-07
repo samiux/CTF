@@ -21,6 +21,8 @@ If you can solve the following challenges, please let me know (infosecninjas AT 
 
 ### Linux Binary Exploitation - pwn
 
+Points are between 50 and 200.  The higher score the harder in general.  
+
 - [BabyPwn](/pwn/babypwn/README.md)  - Point 150
 
 ## Tutorials & Writeups
