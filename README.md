@@ -10,7 +10,7 @@
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
 - Assemble Language  
-- Ghidra or IDA (optional)
+- Ghidra or IDA (optional but recommended)
 - C/C++ Language  
 - Python Language  
 - Exploit Development  
