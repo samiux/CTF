@@ -2,4 +2,4 @@
 
 ## Challenges
 
-- [babypwn](/CTF/pwn/babypwn/README.md)  
+- [babypwn](/pwn/babypwn/README.md)  
