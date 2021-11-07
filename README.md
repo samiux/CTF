@@ -18,7 +18,7 @@
 
 ## Challenges
 
-If you can solve the following challenges, please let me know (```**Discord** @samiux```) and may be we can research together.  
+If you can solve the following challenges, please let me know (```--Discord-- @samiux```) and may be we can research together.  
 
 ### Linux Binary Exploitation - pwn
 
