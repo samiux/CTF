@@ -10,10 +10,11 @@
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
 - Assemble Language  
+- Ghidra or IDA (optional)
 - C/C++ Language  
 - Python Language  
 - Exploit Development  
-- pwn tools (when necessary)  
+- pwntools (optional but recommended)  
 
 ## Challenges
 
