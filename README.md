@@ -2,8 +2,8 @@
 
 ## Challenges
 
-### Stack Buffer Overflow
-- [BabyPwn](/pwn/babypwn)  
+### Binary Exploitation - pwn
+- [BabyPwn](/pwn/babypwn/README.md)  
 
 ## Tutorials & Writeups
 
