@@ -22,7 +22,7 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 ### Linux Binary Exploitation - pwn
 
-Points are between 50 and 200.  The higher score the harder in general.  
+Points are between 50 and 200 (step by 25).  The higher score the harder in general.  
 
 - [babypwn](/pwn/babypwn/README.md)  - Point 150
 
@@ -32,7 +32,7 @@ Points are between 50 and 200.  The higher score the harder in general.
 - [Nightmare](https://guyinatuxedo.github.io/)  
 
 ### Tutorials  
-- [pwn.college](https://pwn.college/)  
+- [pwn.college](https://pwn.college/)  - Basic concept in Videos   
 - [CTF pwn tips](https://github.com/Naetw/CTF-pwn-tips)  
 - [CTF Wiki](https://ctf-wiki.org/)  - Chinese  
 
