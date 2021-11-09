@@ -30,7 +30,6 @@ Points are between 50 and 200.  The higher score the harder in general.
 
 ### Writeups  
 - [Nightmare](https://guyinatuxedo.github.io/)  
-- [Caprinux](https://caprinux.github.io/)  
 
 ### Tutorials  
 - [pwn.college](https://pwn.college/)  
