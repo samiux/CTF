@@ -1,6 +1,6 @@
 # babypwn
 
-If you can solve the following challenges, please let me know (Discord @samiux) and may be we can research together.
+If you can solve the following challenges, please let me know (```Discord @samiux```) and may be we can research together.
 
 Points are between 50 and 200 (step by 25). The higher score the harder in general.
 
