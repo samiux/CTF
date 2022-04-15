@@ -18,5 +18,5 @@ This binary requires ```libc-2.31.so``` or higher, such as Ubuntu 22.04 LTS or h
 
 ## Here is my solution :
 
-[![](https://img.youtube.com/vi/-5vo5mT2bng/0.jpg)](https://www.youtube.com/watch?v=-5vo5mT2bng "q3 solution")   
+[![](https://img.youtube.com/vi/WirQLVMhm3E/0.jpg)](https://www.youtube.com/watch?v=WirQLVMhm3E "q3 solution")   
 
