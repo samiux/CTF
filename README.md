@@ -5,7 +5,7 @@
 
 ## Basic Knowledge Requirements
 
-- Linux  (Ubuntu or Kali Linux is recommended)
+- Linux  (Ubuntu, Kali Linux or Parrot Security is recommended)
 - Linux security features  (RELRO, Canary, NX, PIE & etc)
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
@@ -25,6 +25,8 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 Points are between 50 and 200 (step by 25).  The higher score the harder in general.  
 
 - [babypwn](/pwn/babypwn/README.md)  - Point 150
+- [q3](/pwn/q3/README.md)  - Point 175  
+- [letters_to_space](/pwn/letters_to_space/README.md)  - Point 175  
 
 ## Tutorials & Writeups
 
