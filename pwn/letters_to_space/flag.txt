@@ -1,0 +1,1 @@
+flag{NX_RELRO_PIE_&_Canary}
