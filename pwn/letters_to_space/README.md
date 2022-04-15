@@ -14,7 +14,7 @@ Point       : 175
 
 sha256      : 7134bee69e91af3ce93433e60d025ecc36fc719bf3cca6dfa4141ea8bd34e144 -- letters_to_space
 
-This binary requires ```libc-2.31.so``` or higher, such as Ubuntu 22.04 LTS or higher.  Other Linux distributions, such as Kali Linux 2022.1 or Parrot Security 5.0 are also suit for the purpose.  The ```flag.txt``` can be fund [here](https://github.com/samiux/CTF/raw/main/pwn/q3/flag.txt).
+This binary requires ```libc-2.31.so``` or higher, such as Ubuntu 22.04 LTS or higher.  Other Linux distributions, such as Kali Linux 2022.1 or Parrot Security 5.0 are also suit for the purpose.  The ```flag.txt``` can be found [here](https://github.com/samiux/CTF/raw/main/pwn/letters_to_space/flag.txt).
 
 ## Here is my solution :
 
