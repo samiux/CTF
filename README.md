@@ -21,7 +21,9 @@ If you can solve the following challenges, please let me know (```Discord @samiu
 
 PwnCTF 2022 is developed on CTFd Framework.  The challenges are mainly designed for Pwnable and Practical purpose.  Difficulty is basic to intermediate level.  No heap exploitation is involved.
 
-PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS while Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
+[comment]: # PwnCTF 2022 and PwnCTF 2022 Now are based on Glibc 2.31 an Glibc 2.35 respectively.  Glibc 2.35 is from Ubuntu 22.04 LTS while Glibc 2.31 is from Ubuntu 20.04 LTS.  There are a total of 10 challenges for each version.  Meanwhile, both versions have the same binaries.
+
+PwnCTF 2022 Now is based on Glibc 2.35.  There are a total of 10 challenges.
 
 #### Usage
 
@@ -29,9 +31,9 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 
 #### Download
 
-- __sha256 : 99c024724fd8cf71da321c5461e9880969ad59a2f9c87ccaf9c95a763f85c471 -- PwnCTF 2022.ova (Glibc 2.31)__  
+[comment]: # - __sha256 : 99c024724fd8cf71da321c5461e9880969ad59a2f9c87ccaf9c95a763f85c471 -- PwnCTF 2022.ova (Glibc 2.31)__  
 
-- [Download PwnCTF 2022.ova (5.9GB)](https://drive.google.com/file/d/1XgQ3PAbL4im6vJUMbfiMisXsov_gew_L/view?usp=sharing)  
+[comment]: # - [Download PwnCTF 2022.ova (5.9GB)](https://drive.google.com/file/d/1XgQ3PAbL4im6vJUMbfiMisXsov_gew_L/view?usp=sharing)  
 
 - __sha256 : aa043339d91e98e16eeabd44b788526274a257eea2516ca3adb713c1b6245a5c -- PwnCTF 2022 Now.ova (Glibc 2.35)__  
 
