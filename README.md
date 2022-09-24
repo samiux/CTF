@@ -46,6 +46,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - May 21, 2022 - Version 2022.1 -- Some improvement  
 - May 21, 2022 - Version 2022.2 -- Increase 5 more challenges, a total of 10 challenges  
 - Aug 19, 2022 - Version 2022.3 -- Modify the Virtualbox settings for better implementation experience  
+- Sep 25, 2022 - Delete Glibc 2.31 version (PwnCTF 2022)
 
 #### Demo
 
