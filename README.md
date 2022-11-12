@@ -2,7 +2,7 @@
 
 ## Basic Knowledge Requirements
 
-- Linux  (Ubuntu, Parrot OS or Kali Linux is recommended)
+- Linux  (Ubuntu, Parrot Security or Kali Linux is recommended)
 - Linux security features  (RELRO, Canary, NX, PIE & etc)
 - GNU Debugger (GDB)  
 - GDB Plugins (gef, pwndbg & etc)  
@@ -44,7 +44,7 @@ Import the ova file into Virtualbox (or VMWare) and access the control panel at 
 - Sep 25, 2022 - Delete Glibc 2.31 version (PwnCTF 2022)
 - Oct 15, 2022 - Version 22.04 -- Based on Ubuntu 22.04 LTS (GLib 2.35)  
 - Oct 25, 2022 - Version 20221025 -- Updated Ubuntu
-- Nov 04, 2022 - Version 20221104 -- Updated Ubuntu (Fixed OpenSSL vulnerability)  
+- Nov 04, 2022 - Version 20221104 -- Updated Ubuntu   
 
 #### Demo
 
